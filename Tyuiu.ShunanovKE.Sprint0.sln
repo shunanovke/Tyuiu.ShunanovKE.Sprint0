@@ -7,6 +7,10 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Task0", "Task0", "{3014405D
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Tyuiu.ShunanovKE.Task0.V0", "Tyuiu.ShunanovKE.Task0.V0\Tyuiu.ShunanovKE.Task0.V0.vcxproj", "{37061C57-6A7C-41CE-85DA-7CBE0C48394F}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Task1", "Task1", "{15DFE704-0812-4D62-AE12-BEE99AB495F8}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Tyuiu.ShunanovKE.Sprint0.Task1.V0", "Tyuiu.ShunanovKE.Sprint0.Task1.V0\Tyuiu.ShunanovKE.Sprint0.Task1.V0.vcxproj", "{4F22C59E-D343-41DF-AAAB-CB96D9BA8EF2}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -23,12 +27,21 @@ Global
 		{37061C57-6A7C-41CE-85DA-7CBE0C48394F}.Release|x64.Build.0 = Release|x64
 		{37061C57-6A7C-41CE-85DA-7CBE0C48394F}.Release|x86.ActiveCfg = Release|Win32
 		{37061C57-6A7C-41CE-85DA-7CBE0C48394F}.Release|x86.Build.0 = Release|Win32
+		{4F22C59E-D343-41DF-AAAB-CB96D9BA8EF2}.Debug|x64.ActiveCfg = Debug|x64
+		{4F22C59E-D343-41DF-AAAB-CB96D9BA8EF2}.Debug|x64.Build.0 = Debug|x64
+		{4F22C59E-D343-41DF-AAAB-CB96D9BA8EF2}.Debug|x86.ActiveCfg = Debug|Win32
+		{4F22C59E-D343-41DF-AAAB-CB96D9BA8EF2}.Debug|x86.Build.0 = Debug|Win32
+		{4F22C59E-D343-41DF-AAAB-CB96D9BA8EF2}.Release|x64.ActiveCfg = Release|x64
+		{4F22C59E-D343-41DF-AAAB-CB96D9BA8EF2}.Release|x64.Build.0 = Release|x64
+		{4F22C59E-D343-41DF-AAAB-CB96D9BA8EF2}.Release|x86.ActiveCfg = Release|Win32
+		{4F22C59E-D343-41DF-AAAB-CB96D9BA8EF2}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
 		{37061C57-6A7C-41CE-85DA-7CBE0C48394F} = {3014405D-CD2E-49A8-A63C-AE99DBBF87CB}
+		{4F22C59E-D343-41DF-AAAB-CB96D9BA8EF2} = {15DFE704-0812-4D62-AE12-BEE99AB495F8}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {77616E53-957F-470E-A05F-0E74379DE578}
