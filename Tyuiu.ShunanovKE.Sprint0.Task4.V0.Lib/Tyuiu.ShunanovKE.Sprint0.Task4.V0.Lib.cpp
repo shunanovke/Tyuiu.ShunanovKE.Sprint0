@@ -5,7 +5,7 @@
 #include "framework.h"
 #include "../../Tyuiu.Cours.cpp/Tyuiu.Cours.cpp.cpp"
 
-// TODO: This is an example of a library function
+// TODO: This is an example of a library functio
 class Service2 : public ISprint0Task4
 {
 	virtual int Calculate(int a, int b, int c, int d) override

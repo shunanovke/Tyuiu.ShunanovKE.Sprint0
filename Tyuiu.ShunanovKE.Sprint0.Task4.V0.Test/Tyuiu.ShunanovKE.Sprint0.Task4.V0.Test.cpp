@@ -19,7 +19,7 @@ namespace UnitTest3
 			int d = 9;
 			int ans1;
 
-		  //run
+		  //Run
 			ans1 = ans->Calculate(a, b, c, d);
 
 		  //Valid
