@@ -1,5 +1,4 @@
-﻿// Tyuiu.ShunanovKE.Sprint0.Task5.V4.cpp : This file contains the 'main' function. Program execution begins and ends there.
-//
+﻿// Tyuiu.ShunanovKE.Sprint0.Task5.V4.cpp : This file contains the 'main' function.
 
 #include <iostream>
 #include "../Tyuiu.ShunanovKE.Sprint0.Task5.V4.Lib/Tyuiu.ShunanovKE.Sprint0.Task5.V4.Lib.cpp"
